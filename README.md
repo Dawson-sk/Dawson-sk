@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dawson-sk (Dawson Skelley).
-- 👀 I’m interested in artifical intelligence and finding ways to make money with coding.
+- 👀 I’m interested in artifical intelligence and automation.
 - 📫 You can reach me @ dawson.skelley@gmail.com.
 
 <!---
